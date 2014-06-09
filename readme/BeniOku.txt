@@ -1,0 +1,47 @@
+ADVENTURE BOY
+
+HÝKAYE;
+Oyunun hikayesi bu sefer biraz olsa da farklý, iki genç aþýk. Bu sefer tatil için bir adaya gelirler fakat bu ada hakkýnda bir sürü söylentileri olur, misal onlardan biri "UZAYLILAR BURADA!" ve bu söylentiyi araþtýrmak isterler fakat yolculuklarý hiç yolunda gitmemiþti.
+
+O sýrada, kötülükler kraliçesi (uzaylýlar prensesi) kýzýn güzelliðini kýskanýr. Hemen kaçýrýp nasýl güzelleþtiðini öðrenmek ister, erkek ise bir yiyecek için ormaný arar fakat geldiðin de kýz uçup gitmiþti.
+
+KIZI KURTARMAK ÝÇÝN HAREKETE GEÇ.
+
+SÜRÜM PLANLARI;
+
+FULL SÜRÜMÜ (PLANLANMADI);
+1: Oyunda, ormanda baþlayýp uzaya kadar uzayan uzun bir macera sizleri bekliyor.
+2: Boy ve Girl þeklinde oyun modu olacaktýr, önce boy modunu bitirmeniz
+gerekecektir. Girl modunda ise, bu sefer baþlangýç noktasýna kadar
+oyunu ters noktasýndan oynayacaksýnýz.
+3: Seslendirmeler ve cutscene olacaktýr.
+
+ALPHA SÜRÜMÜ (PLANLANMADI);
+1: Almanca, Fransýzca ve Japonca dilleri eklenecektir.
+2: Oyundaki bilinebilir canavarlar tasarlanacaktýr. Ayrýca sistemini kodlamasý yapýlacaktýr.
+3: Bilinebilir mob(canavar)lar olacaktýr.
+4: Bölüm sonu canavarlarýna gelince bile boss sizden ayrýlmayacaktýr, siz vurulana kadar sizle kalacaktýr.
+5: UFOBOSS tasarlanacak fakat aktif edilmeyecektir.
+6: Oyunda, ormanda baþlayýp teknolojiye kadar olan bir macera sizleri bekliyor.
+
+BETA SÜRÜMÜ (1. BETA - ERTELENDÝ);
+1: Türkçe, Ýngilizce, Korece dillerini destekleyecektir.
+2: Oyunun kodlarýný ve resim kaynaklarý tamamen açýk kaynak kodlu olacaktýr.
+3: Bol bol müzikler olacaktýr, tamamen onlarý da ücretsiz olarak dinleyebileceksiniz.
+4: Oyunda, ormanda baþlayýp kumsala kadar olan bir macera sizleri bekliyor.
+
+Nasýl Oynanýr?
+Yönlendirme Tuþu: Karakteri yönlendirir. (UP, DOWN, LEFT, RIGHT)
+Z: Zýplama
+X: Ateþ Etme
+P: Oyunu Durdurur
+S: Oyunu Kaydet
+L: Kayýtlý Oyunu Aç
+F1: Yardýmý Açar
+F4 ya da ESC: Oyunu Kapatýr
+
+EMEÐÝ GEÇENLER;
+
+Kiyora Ichinose: Kodlama ve Bölüm Editörü
+Köksal Baþer: 2D Tasarýmcý
+Gökhan Karagöz: Ýngilizce Tercüman
