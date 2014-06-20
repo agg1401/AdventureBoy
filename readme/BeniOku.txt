@@ -42,6 +42,8 @@ F4 ya da ESC: Oyunu Kapatýr
 
 EMEÐÝ GEÇENLER;
 
+Fatih Yýldýz: 2D Modellemeci
+Gökhan Karagöz: Ýngilizce Tercüman
+Kadir Çiçek: 3D Modellemeci & Animasyon
 Kiyora Ichinose: Kodlama ve Bölüm Editörü
 Köksal Baþer: 2D Tasarýmcý
-Gökhan Karagöz: Ýngilizce Tercüman
