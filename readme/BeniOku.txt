@@ -41,8 +41,7 @@ F1: Yardýmý Açar
 F4 ya da ESC: Oyunu Kapatýr
 
 EMEÐÝ GEÇENLER;
-Gökhan Karagöz & Yýlmaz Delice: Ýngilizce Tercüman
-Kadir Çiçek: 3D Animasyoncu
-Kiyora Ichinose: Kodlama ve Bölüm Editörü
-Köksal Baþer & Enes: 2D Tasarýmcý
 
+Kiyora Ichinose: Kodlama ve Bölüm Editörü
+Köksal Baþer: 2D Tasarýmcý
+Gökhan Karagöz: Ýngilizce Tercüman
